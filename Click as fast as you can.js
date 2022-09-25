@@ -316,7 +316,7 @@ function timeOut(){
         alert.appendChild(score);
 
         const imgtortoise = document.createElement("img");
-        imgtortoise.src = "Rabbit.png"
+        imgtortoise.src = "rabbit.png"
         alert.appendChild(imgtortoise);
 
         const tryagain = document.createElement("div");
